@@ -39,7 +39,8 @@ image_path = 'image1.jpg'  # Path to your image
 pixel_values = load_image(image_path).to(device)  # Make sure it's on the correct device
 
 # Ask the model to describe the image
-question = '<image>\nWhat is in this image?'
+# question = '<image>\nWhat is in this image?'
+question = 'Do you know what is ADA sign in architectural drawings? Give me speicific definition.'
 
 # Define generation config
 generation_config = {'max_new_tokens': 1024, 'do_sample': True}
