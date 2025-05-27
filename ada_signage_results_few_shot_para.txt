@@ -1,0 +1,464 @@
+Image: page_1.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_10.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_11.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_12.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_13.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_14.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_15.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_16.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_17.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_18.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_19.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_2.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM C238"
+  "position_in_image": "center | bottom-right"
+  "sheet_number": "G001"
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_20.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_21.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_22.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_23.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_24.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_25.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_26.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_27.jpg
+[Raw model response]
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM NAME XXXX
+RAISED TEXT (Braille)
+6x6"
+  "position_in_image": "top-left | center 
+bottom-right"
+  "sheet_number": "A901"
+}
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_28.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM C231"
+  "position_in_image": "top-left"
+  "sheet_number": "S001"
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_29.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM C231"
+  "position_in_image": "center-right | ..."
+  "sheet_number": "S002"
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_3.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_30.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM NO. B102"
+  "position_in_image": "top-left"
+  "sheet_number": "S003"
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_31.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_32.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_33.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_34.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_35.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_36.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_37.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_38.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_39.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM NAME\nVIEW NAME"
+  "position_in_image": "top-left"
+  "sheet_number": "P000"
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_4.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_40.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_41.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_42.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_43.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_44.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_45.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM C231"
+  "position_in_image": "top-left"
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_46.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_47.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_48.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_49.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_5.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_50.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_51.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_52.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM C231"
+  "position_in_image": "top-left"
+  "sheet_number": ""
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_53.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_54.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_55.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_56.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_57.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_58.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_59.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_6.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_60.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_61.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_62.jpg
+[Raw model response]
+```json
+{
+  "type": "room_number",
+  "text_or_symbols": "ROOM C231"
+  "position_in_image": "top-left"
+}
+```
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_63.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_64.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_65.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_66.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_67.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_7.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_8.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_9.jpg
+[Raw model response]
+"no ADA sign in this page"
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------

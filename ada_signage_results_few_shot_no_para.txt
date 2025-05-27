@@ -1,0 +1,268 @@
+Image: page_1.jpg
+Page Number: G000
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_10.jpg
+Page Number: A310
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C235", "position_in_image": "bottom-left", "page_number": "A310"}]
+------------------------------------------------------------
+Image: page_11.jpg
+Page Number: A401
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C231", "position_in_image": "top-left", "page_number": "A401"}]
+------------------------------------------------------------
+Image: page_12.jpg
+Page Number: A402
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 2A11", "position_in_image": "center", "page_number": "A402"}]
+------------------------------------------------------------
+Image: page_13.jpg
+Page Number: A403
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "A403"}]
+------------------------------------------------------------
+Image: page_14.jpg
+Page Number: A501
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C231", "position_in_image": "center", "page_number": "A501"}]
+------------------------------------------------------------
+Image: page_15.jpg
+Page Number: A502
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_16.jpg
+Page Number: A510
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "A510"}]
+------------------------------------------------------------
+Image: page_17.jpg
+Page Number: A511
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_18.jpg
+Page Number: A512
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "top-left", "page_number": "A512"}]
+------------------------------------------------------------
+Image: page_19.jpg
+Page Number: A601
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "A601"}]
+------------------------------------------------------------
+Image: page_2.jpg
+Page Number: G001
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_20.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_21.jpg
+Page Number: A610
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C231", "position_in_image": "bottom-left", "page_number": "A610"}]
+------------------------------------------------------------
+Image: page_22.jpg
+Page Number: 1A701
+ADA Signs: [{"type": ["room_number"], "text_or_symbols": "C223, OCCUPANCY LOAD 4, etc.", "position_in_image": "center", "page_number": "1A701"}]
+------------------------------------------------------------
+Image: page_23.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_24.jpg
+Page Number: A731
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "A731"}]
+------------------------------------------------------------
+Image: page_25.jpg
+Page Number: A801
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C123", "position_in_image": "center", "page_number": "A801"}]
+------------------------------------------------------------
+Image: page_26.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_27.jpg
+Page Number: A901
+ADA Signs: [{"type": ["room_number", "occupancy_load", "exterior_signage"], "text_or_symbols": {"room_number": "ROOM NAME", "occupancy_load": "MACHUUM OCCUPANCY PERSONS", "exterior_signage": "CHRISTIAN GUILD DEVELOPMENT PUBLIC LIBRARY 2020 BLDG. RR LIBRARY DIRECTO"}, "position_in_image": ["top-left", "center", "bottom-left"], "page_number": "A901"}]
+------------------------------------------------------------
+Image: page_28.jpg
+Page Number: S001
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "S001"}]
+------------------------------------------------------------
+Image: page_29.jpg
+Page Number: S002
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_3.jpg
+Page Number: 1 A001 
+ADA Signs: [{"type": "room_number", "text_or_symbols": "MEDITECH EQUIPMENT ELEC.", "position_in_image": "center", "page_number": "1 A001 "}]
+------------------------------------------------------------
+Image: page_30.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_31.jpg
+Page Number: 1
+ADA Signs: [{"type": ["room_number"], "text_or_symbols": "C230", "position_in_image": "center", "page_number": "1"}]
+------------------------------------------------------------
+Image: page_32.jpg
+Page Number: S102
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "S102"}]
+------------------------------------------------------------
+Image: page_33.jpg
+Page Number: S1103
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_34.jpg
+Page Number: S201
+ADA Signs: [{"type": "room_number | accessi1ble_entrance", "text_or_symbols": "ROOM 241 | ACCESSIBLE ENTRANCE", "position_in_image": "top-left", "page_number": "S201"}]
+------------------------------------------------------------
+Image: page_35.jpg
+Page Number: S202
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_36.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_37.jpg
+Page Number: S302
+ADA Signs: [{"type": "room_number", "text_or_symbols": "OCCUPANCY LOAD 4", "position_in_image": "center", "page_number": "S302"}]
+------------------------------------------------------------
+Image: page_38.jpg
+Page Number: S303
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C213", "position_in_image": "top-left", "page_number": "S303"}]
+------------------------------------------------------------
+Image: page_39.jpg
+Page Number: P000
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_4.jpg
+Page Number: A110
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM A10", "position_in_image": "center", "page_number": "A110"}]
+------------------------------------------------------------
+Image: page_40.jpg
+Page Number: P200
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "P200"}]
+------------------------------------------------------------
+Image: page_41.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_42.jpg
+Page Number: P202
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "P202"}]
+------------------------------------------------------------
+Image: page_43.jpg
+Page Number: P300
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_44.jpg
+Page Number: P500
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 2212", "position_in_image": "center", "page_number": "P500"}]
+------------------------------------------------------------
+Image: page_45.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_46.jpg
+Page Number: 1
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C232", "position_in_image": "center", "page_number": "1"}]
+------------------------------------------------------------
+Image: page_47.jpg
+Page Number: M202
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_48.jpg
+Page Number: M203
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 220", "position_in_image": "center", "page_number": "M203"}]
+------------------------------------------------------------
+Image: page_49.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_5.jpg
+Page Number: A012
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C235", "position_in_image": "center", "page_number": "A012"}]
+------------------------------------------------------------
+Image: page_50.jpg
+Page Number: 
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_51.jpg
+Page Number: M500
+ADA Signs: [{"type": "room_number, occupancy_load, it", "text_or_symbols": "ROOM 212, OCCUPANCY LOAD 4, AIRPORT OFFICE 101", "position_in_image": "center, center, center", "page_number": "M500"}]
+------------------------------------------------------------
+Image: page_52.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_53.jpg
+Page Number: 1
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "1"}]
+------------------------------------------------------------
+Image: page_54.jpg
+Page Number: E
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "E"}]
+------------------------------------------------------------
+Image: page_55.jpg
+Page Number: E211
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "E211"}]
+------------------------------------------------------------
+Image: page_56.jpg
+Page Number: E221
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C213", "position_in_image": "top-left", "page_number": "E221"}]
+------------------------------------------------------------
+Image: page_57.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_58.jpg
+Page Number: E301
+ADA Signs: [{"type": "room_number | safety_instruction", "text_or_symbols": "ROOM 212, EXTEND POLE BASE DETAIL, ELEVATOR sensor MIXN wiring", "position_in_image": "center | top-left", "page_number": "E301"}]
+------------------------------------------------------------
+Image: page_59.jpg
+Page Number: E400
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_6.jpg
+Page Number: A101
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "A101"}]
+------------------------------------------------------------
+Image: page_60.jpg
+Page Number: E50
+ADA Signs: "no ADA sign in this page"
+------------------------------------------------------------
+Image: page_61.jpg
+Page Number: E501
+ADA Signs: [{"type": ["room_number"], "text_or_symbols": "C231, C218, 2825047995", "position_in_image": "top-left, top-right, center", "page_number": "E501"}]
+------------------------------------------------------------
+Image: page_62.jpg
+Page Number: 0
+ADA Signs: [{"type": "restroom, room_number, accessibility_entrance", "text_or_symbols": "symbols for men/women, room number 'C213', 'ACCESSIBLE ENTRANCE', icons", "position_in_image": "top-left, top-center, top-right, bottom-center, bottom-right", "page_number": "0"}]
+------------------------------------------------------------
+Image: page_63.jpg
+Page Number: 74
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C237", "position_in_image": "center", "page_number": "74"}]
+------------------------------------------------------------
+Image: page_64.jpg
+Page Number: T202
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C231", "position_in_image": "center", "no_ADA_sign_in_this_page": [], "page_number": "T202"}]
+------------------------------------------------------------
+Image: page_65.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_66.jpg
+Page Number: 
+ADA Signs: "could not parse"
+------------------------------------------------------------
+Image: page_67.jpg
+Page Number: T500
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM NAME C233", "position_in_image": "center", "page_number": "T500"}]
+------------------------------------------------------------
+Image: page_7.jpg
+Page Number: 1102
+ADA Signs: [{"type": "room_number", "text_or_symbols": "ROOM 212", "position_in_image": "center", "page_number": "1102"}]
+------------------------------------------------------------
+Image: page_8.jpg
+Page Number: A201
+ADA Signs: [{"type": "occupancy_load, room_number", "text_or_symbols": "OCCUPANCY LOAD 4, C230", "position_in_image": "center", "page_number": "A201"}]
+------------------------------------------------------------
+Image: page_9.jpg
+Page Number: A301
+ADA Signs: [{"type": "room_number", "text_or_symbols": "C234", "position_in_image": "bottom-left", "page_number": "A301"}]
+------------------------------------------------------------
