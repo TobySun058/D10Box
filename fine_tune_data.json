@@ -1,0 +1,42 @@
+[
+  {
+    "image": "page_1.jpg",
+    "prompt": "<image>\nYou're analyzing an architectural drawing.\nIf any ADA signage is present, return: {...}",
+    "response": {
+      "type": "restroom",
+      "text_or_symbols": "MEN",
+      "position_in_image": "top-left",
+      "sheet_number": "A101"
+    }
+  },
+  {
+    "image": "page_2.jpg",
+    "prompt": "<image>\nYou're analyzing an architectural drawing.\nIf any ADA signage is present, return: {...}",
+    "response": {
+      "type": "room_number",
+      "text_or_symbols": "ROOM 204",
+      "position_in_image": "bottom-right",
+      "sheet_number": "A102"
+    }
+  },
+  {
+    "image": "page_3.jpg",
+    "prompt": "<image>\nYou're analyzing an architectural drawing.\nIf any ADA signage is present, return: {...}",
+    "response": {
+      "type": "occupancy_load",
+      "text_or_symbols": "OCCUPANCY LOAD 49",
+      "position_in_image": "center",
+      "sheet_number": "A201"
+    }
+  },
+  {
+    "image": "page_4.jpg",
+    "prompt": "<image>\nYou're analyzing an architectural drawing.\nIf any ADA signage is present, return: {...}",
+    "response": {
+      "type": "other",
+      "text_or_symbols": "ACCESSIBLE ENTRANCE",
+      "position_in_image": "top-right",
+      "sheet_number": "A100"
+    }
+  }
+]
